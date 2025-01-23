@@ -1,0 +1,8 @@
+colorlog==6.9.0
+requests==2.32.3
+psutil==6.1.1
+colorama==0.4.6
+transformers==4.48.0
+rich==13.9.4
+pyfiglet==1.0.2
+torch==2.5.1
