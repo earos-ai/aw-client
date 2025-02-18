@@ -1,8 +1,18 @@
+# Application execution
+
+> Without needing to use the command line below (which is intended for technical users)
+
+## Windows
+
+Download the aw client in **[exe](https://github.com/earos-ai/aw-client/tree/master/dist)**.
+
+# Command line run
+
 ## 1.Install Git
 
 > To install git-lfs as an additional tool, check out (https://git-lfs.com/)
 
-### Window
+### Windows
 
 Go to the Git official website(https://git-scm.com/downloads/win) to download the specified version of Git for installation.
 
@@ -174,7 +184,7 @@ rm ~/miniconda3/miniconda.sh
 
 ## 3.Start running the node 
 
-### Window
+### Windows
 ```
 venv\Scripts\activate
 git clone xxx \your\project\path\aw-node
