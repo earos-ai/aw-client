@@ -1,6 +1,6 @@
 # Application execution
 
-> Without needing to use the command line below (which is intended for technical users)
+> Directly download the AW client in [dist](https://github.com/earos-ai/aw-client/tree/master/dist). format to run AW nodes, without needing to use the command line below (which is intended for technical users
 
 ## Windows
 
@@ -187,7 +187,7 @@ rm ~/miniconda3/miniconda.sh
 ### Windows
 ```
 venv\Scripts\activate
-git clone xxx \your\project\path\aw-node
+git clone https://github.com/earos-ai/aw-client \your\project\path\aw-node
 cd \your\project\path\aw-node
 pip install -r requirements.txt
 python aw.py
@@ -200,7 +200,7 @@ python aw.py
 source ~/miniconda3/bin/activate
 conda create -y -n aw-node python==3.10
 conda activate aw-node
-git clone xxx /root/aw-node
+git clone https://github.com/earos-ai/aw-client /root/aw-node
 cd /root/aw-node
 pip install -r requirements.txt
 python aw.py
