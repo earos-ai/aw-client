@@ -13,6 +13,7 @@ Download the aw client in **[aw-mac](https://github.com/earos-ai/aw-client/tree/
 ### Troubleshooting File Opening Issues on macOS
 
 If you encounter situations where a aw cannot be opened or is being blocked (as shown in the picture), you may need to adjust your settings. This issue occurs because the application is not distributed through the App Store.
+
 ![awblock](./resource/aw_detail.jpg)
 
 #### Resolution Steps
