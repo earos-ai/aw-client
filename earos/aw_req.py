@@ -38,7 +38,7 @@ HEADERS = {
     "Version": "1.0.0",
     "Accept-Language": "en"
 }
-PING_PULSE = 15 * 60
+PING_PULSE = 30 * 60
 
 
 def ping_aw_server(disconnect_signal, aw_license, node_id):

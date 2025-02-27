@@ -115,7 +115,7 @@ def main():
 
             # Process the model task
             aw_dir = os.getcwd()
-            model_type = os.path.join(aw_dir, "models", model_task["model_type"])
+            model_type = os.path.join(aw_dir, "earos", "models", model_task["model_type"])
             model_res = model_processor(
                 unit_model_processor,
                 task_args=(model_task["task_name"],
