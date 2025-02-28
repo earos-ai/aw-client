@@ -10,6 +10,10 @@ Download the aw client in **[exe](https://github.com/earos-ai/aw-client/tree/mas
 
 Download the aw client in **[aw-mac](https://github.com/earos-ai/aw-client/tree/master/dist)**.
 
+### First unzip the downloaded file
+
+Double-click the `.zip` package to unzip the file
+
 ### Troubleshooting File Opening Issues on macOS
 
 If you encounter situations where a aw cannot be opened or is being blocked (as shown in the picture), you may need to adjust your settings. This issue occurs because the application is not distributed through the App Store.
@@ -26,7 +30,7 @@ If you encounter situations where a aw cannot be opened or is being blocked (as 
    - Within the **Privacy & Security** panel, scroll to the **Security** section. ![macsettings](./resource/aw_settings.jpg)
 
 3. **Locate the Application:**
-   - Find the "aw-mac-1.0.0" in the list of blocked
+   - Find the "aw-1.0.0" in the list of blocked
 
 4. **Allow the Application:**
    - Click on **Open Anyway** to bypass the block and open the file.
