@@ -37,6 +37,17 @@ If you encounter situations where a aw cannot be opened or is being blocked (as 
 
 > **Note:** This configuration is necessary because macOS security settings restrict applications not available via the App Store.
 
+## Linux
+
+> Support: `ubuntu20.04+`、`debian11+`、`fedora39+`
+
+Download the aw client in **[aw-linux](https://github.com/earos-ai/aw-client/tree/master/dist)**.
+
+```shell
+unzip aw-linux-1.0.0.zip
+./aw
+```
+
 # Command line run
 
 ## 1.Install Git
